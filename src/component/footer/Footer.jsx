@@ -67,7 +67,7 @@ class Footer extends Component {
 
                                         <div className="col-lg-12">
                                             <div className="copyright-text">
-                                                <p><a href="https://www.sohaibezzahir.com/">Developed by Haib - IT Workshops &amp; Web-development</a></p>
+                                                <p><a href="https://www.ghalbmedia.nl/">Managed by Ghalb Media - Webdevelopment</a></p>
                                             </div>
                                         </div>
                                     </div>

@@ -25,7 +25,7 @@ const FooterTwo = () => {
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12">
                         <div className="inner text-lg-right text-center mt_md--20 mt_sm--20">
                             <div className="text">
-                                <p><a href="https://www.sohaibezzahir.com/">Developed by Haib - IT Workshops &amp; Web-development</a></p>
+                                <p><a href="https://www.ghalbmedia.nl/">Managed by Ghalb Media - Webdevelopment</a></p>
                             </div>
                         </div>
                     </div>
